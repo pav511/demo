@@ -9,3 +9,7 @@ int main() {
 void f() {
     printf("new feature");
 }
+
+void f2() {
+    printf("another new feature");
+}
