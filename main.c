@@ -6,6 +6,7 @@ int main() {
     return 0;
 }
 
+// feature-branch has changed
 void f() {
     printf("new feature");
 }
